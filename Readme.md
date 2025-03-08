@@ -1,0 +1,2 @@
+# cicdiscord
+簡単なyaml定義ファイルと、github actions等ci/cdを組み合わせてチャンネルを管理するbotツール
